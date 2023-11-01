@@ -1,4 +1,4 @@
-# Programa-o-Orientada-a-Objetos
+# Projeto 1
 No âmbito da disciplina, foi desenvolvido um projeto que envolveu a criação de um simulador de corrida de veículos. Neste projeto, os veículos competiam em uma corrida e eram controlados através de um centro de comandos. O objetivo era aplicar diversos conceitos importantes de programação orientada a objetos, incluindo o encapsulamento de dados, modificadores de acesso, getters e setters, métodos construtores parametrizados, sobrecarga de métodos, a palavra reservada "this," atributos estáticos e relacionamentos entre classes. Além disso, o projeto foi meticulosamente planejado para garantir que não apresentasse erros em tempo de execução, e um diagrama UML foi criado para documentar a estrutura do sistema.
 
 ## Roda1.java

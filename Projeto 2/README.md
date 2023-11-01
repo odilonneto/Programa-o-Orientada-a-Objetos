@@ -11,3 +11,5 @@ Aqui estão os principais elementos que incrementamos no Projeto 2:
   - Interface: Implementamos interfaces para definir contratos que as classes devem seguir, permitindo a implementação de múltiplas interfaces.
 
   - Herança e Polimorfismo: Aplicamos o conceito de herança para criar hierarquias de classes e exploramos o polimorfismo para tratar objetos de subclasses de maneira genérica.
+
+  - Modificador Protected: Não utilizamos o modificador protected em nosso código.
